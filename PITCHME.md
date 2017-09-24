@@ -1,25 +1,25 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
-
 # Introdução a Machine Learning
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Sérgio Rodrigues</span>
 <br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+## Agenda
+
+* Definição formal
+* Glossário básico
+* Principais classes de algoritmos
+* Aplicaçoes
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+## Definição formal
+
+> Arthur Samuel (1959): Campo de estudo que dá aos computadores a habilidade de aprender sem serem explicitamente programados.
+
+> Tom Mitchell (1998): Diz-se que um programa de computador aprende a partir de uma experiência E com respeito a uma tarefa T e uma medida de performance P se sua performance em T, medido por P, aumenta com a experiência E.  
+
 
 ---
 
